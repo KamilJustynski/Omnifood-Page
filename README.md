@@ -6,7 +6,7 @@ A healthy meal delivered to your door, every single day The smart 365-days-per-y
 
 [Omnifood-page](https://kamiljustynski.github.io/Omnifood-Page/)
 
-![Omnifood Gif](https://raw.githubusercontent.com/KamilJustynski/Omnifood-Page/main/omnifoodGIF.gif)
+![screen](https://raw.githubusercontent.com/KamilJustynski/Omnifood-Page/main/omnifood.png)
 
 # Technologies
 
